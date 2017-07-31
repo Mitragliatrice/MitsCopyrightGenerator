@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = MitsViewTool::Renderer.copyright 'Colton Mathews', 'All rights reserved'
+```
 
 ## Development
 

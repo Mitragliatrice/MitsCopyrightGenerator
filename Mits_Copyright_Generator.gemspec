@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mathews.colton@gmail.com"]
 
   spec.summary       = %q{A simple gem to install a copyright generator}
-  spec.homepage      = "www.colton-mathews.com"
+  spec.homepage      = "https://www.colton-mathews.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
